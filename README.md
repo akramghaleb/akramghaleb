@@ -1,7 +1,7 @@
 <br>
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
-<h4 >My name is Akram Ghaleb.</h4>
+<h4 >My name is Akram Al-Ghammari.</h4>
 
 <p>Full-stack developer with 5 years of broad experience in mobile and web development with a very strong passion to master Front-end Development and DevOps. <b>Flutter</b> and <b>Laravel</b> specialist with the ability to work with <b>Tailwind</b> and <b>Vue</b> technology.
 </p>
