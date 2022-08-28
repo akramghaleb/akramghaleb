@@ -12,6 +12,6 @@
 
 <a href="http://akramdev.cf/image/about/1737164636170521.pdf" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=akramdev-ye.akramdev-ye)
+![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
 </div>
