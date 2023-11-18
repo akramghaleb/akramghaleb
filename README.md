@@ -12,7 +12,7 @@
 </p>
 <p>For enquiries, contact me at <a href="mailto:akramghaleb2018@gmail.com">akramghaleb2018@gmail.com</a></p>
 
-<a href="https://akramdev.com/cv" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
+<a href="https://backend.akramdev.com/cv" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
