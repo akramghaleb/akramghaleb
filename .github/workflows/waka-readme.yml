@@ -34,7 +34,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           ### TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: akramghaleb # optional
-          AUTHOR_EMAIL: akramghammari@gmail.com # optional
+          ### COMMITTER_NAME: GitHubActionBot # optional
+          ### COMMITTER_EMAIL: action-bot@github.com # optional
+          ### AUTHOR_NAME: akramghaleb # optional
+          ### AUTHOR_EMAIL: akramghammari@gmail.com # optional
