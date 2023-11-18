@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    # Runs every 30 min
+    - cron: "*/30 * * * *"
 
 jobs:
   update-readme:
@@ -14,4 +14,28 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # this action name
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### meta
+          API_BASE_URL: https://wakatime.com/api # optional
+          REPOSITORY: akramghaleb/akramghaleb # optional
+          ### content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: php
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML CFM CFC
+          ### commit
+          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: akramghaleb
+          AUTHOR_EMAIL: akramghammari@gmail.com
