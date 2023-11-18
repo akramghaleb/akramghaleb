@@ -20,16 +20,16 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # optional
           REPOSITORY: akramghaleb/akramghaleb # optional
           ### content
-          SHOW_TITLE: true
-          SECTION_NAME: waka
-          BLOCKS: ->
-          CODE_LANG: php
-          TIME_RANGE: all_time
-          LANG_COUNT: 10
-          SHOW_TIME: true
-          SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          ### SHOW_TITLE: true
+          ### SECTION_NAME: waka
+          ### BLOCKS: ->
+          ### CODE_LANG: php
+          ### TIME_RANGE: all_time
+          ### LANG_COUNT: 10
+          ### SHOW_TIME: true
+          ### SHOW_TOTAL: true
+          ### SHOW_MASKED_TIME: false
+          ### STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML CFM CFC
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
