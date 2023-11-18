@@ -5,7 +5,7 @@
 <h2 >Hello,</h2>
  <img align="right" alt="GIF" src="https://github.com/akramghaleb/akramghaleb/blob/main/assets/images/code.gif?raw=true" width="500" height="320" />
 <h4 >My name is Akram Ghaleb.</h4>
-<p>Full-stack developer with 5 years of broad experience in mobile and web development with a very strong passion to master Front-end Development and DevOps. <b>Flutter</b> and <b>Laravel</b> specialist with the ability to work with <b>Vue</b> technology.
+<p>Full-stack developer with 6 years of broad experience in mobile and web development with a very strong passion to master Front-end Development and DevOps. <b>Flutter</b> and <b>Laravel</b> specialist with the ability to work with <b>Vue</b> technology.
 </p>
 
 <p>Most of my work available on <a href="https://akramdev.com/" target="_blank">akramdev.com</a>. And you could have a copy of my <a href="https://akramdev.com/cv" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3">resume</a> as well.
