@@ -15,3 +15,5 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
 </div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
