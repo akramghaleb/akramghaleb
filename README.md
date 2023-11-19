@@ -1,9 +1,7 @@
+
 <br>
 <div style="padding-left:30px; padding-right:30px;">
-  
-
 <h2 >Hello,</h2>
- <img align="right" alt="GIF" src="https://github.com/akramghaleb/akramghaleb/blob/main/assets/images/code.gif?raw=true" width="400" />
 <h4 >My name is Akram Ghaleb.</h4>
 <p>Full-stack developer with 6 years of broad experience in mobile and web development with a very strong passion to master Front-end Development and DevOps. <b>Flutter</b> and <b>Laravel</b> specialist with the ability to work with <b>Vue</b> technology.
 </p>
@@ -14,6 +12,9 @@
 
 <a href="https://backend.akramdev.com/cv" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
 
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akramghaleb2018@gmail.com)](mailto:akramghaleb2018@gmail.com)
+[![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=967776284933)](https://api.whatsapp.com/send?phone=967776284933)
+[![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akramghaleb)](https://www.linkedin.com/in/akramghaleb)
 ![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
 </div>
