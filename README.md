@@ -14,7 +14,7 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akramghaleb2018@gmail.com)](mailto:akramghaleb2018@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=967776284933)](https://api.whatsapp.com/send?phone=967776284933)
-[![Linkedin Badge](https://img.shields.io/badge/-Linked-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akramghaleb)](https://www.linkedin.com/in/akramghaleb)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akramghaleb)](https://www.linkedin.com/in/akramghaleb)
 ![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
 </div>
