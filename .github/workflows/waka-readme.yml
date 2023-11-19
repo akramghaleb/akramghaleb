@@ -30,7 +30,7 @@ jobs:
           SHOW_TOTAL: true
           ### SHOW_MASKED_TIME: false
           ### STOP_AT_OTHER: true
-          IGNORED_LANGUAGES: YAML JSON TOML CFM CFC
+          IGNORED_LANGUAGES: YAML JSON TOML
           ### commit
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
