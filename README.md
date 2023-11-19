@@ -3,7 +3,7 @@
   
 
 <h2 >Hello,</h2>
- <img align="right" alt="GIF" src="https://github.com/akramghaleb/akramghaleb/blob/main/assets/images/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/akramghaleb/akramghaleb/blob/main/assets/images/code.gif?raw=true" width="400" />
 <h4 >My name is Akram Ghaleb.</h4>
 <p>Full-stack developer with 6 years of broad experience in mobile and web development with a very strong passion to master Front-end Development and DevOps. <b>Flutter</b> and <b>Laravel</b> specialist with the ability to work with <b>Vue</b> technology.
 </p>
