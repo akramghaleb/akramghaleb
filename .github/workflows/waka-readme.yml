@@ -4,8 +4,8 @@ on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # Runs every 30 min
-    - cron: "*/30 * * * *"
+    # Runs every 6 hours
+    - cron: "* */6 * * *"
 
 jobs:
   update-readme:
@@ -35,7 +35,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
-          AUTHOR_NAME: akramghaleb
-          AUTHOR_EMAIL: akramghammari@gmail.com
+          ### COMMITTER_NAME: GitHubActionBot
+          ### COMMITTER_EMAIL: action-bot@github.com
+          ### AUTHOR_NAME: akramghaleb
+          ### AUTHOR_EMAIL: akramghammari@gmail.com
