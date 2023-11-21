@@ -39,11 +39,7 @@
 ```txt
 Total Time: 11 hrs 42 mins
 
-PHP              9 hrs 2 mins    ███████████████████▒░░░░░   76.87 %
-Blade Template   1 hr 49 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-Dart             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 %
-Markdown         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Bash             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
