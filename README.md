@@ -33,21 +33,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 9 hrs 49 mins
-
-PHP          6 hrs 32 mins   ████████████████▓░░░░░░░░   66.54 %
-SQL          3 hrs 10 mins   ████████░░░░░░░░░░░░░░░░░   32.25 %
-ColdFusion   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
-
 If you enjoy my work, consider buying me a coffee to keep the creativity flowing!
 
 <a href="https://www.buymeacoffee.com/akramghaleb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
