@@ -1,5 +1,5 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://TheBSD.github.io/StandWithPalestine/)
 
-<br>
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
