@@ -3,7 +3,7 @@
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
-<p>Full-stack developer with seven years of hands-on experience in web development, I possess a diverse skill set spanning both front-end and back-end domains. My fervent dedication lies in sharpening my proficiency in front-end development and mastering DevOps practices. While specializing in Laravel for back-end solutions, I am also proficient in Flutter for cross-platform mobile development, although my expertise in Laravel surpasses my skills in Flutter. Nonetheless, I strive to continuously enhance my mobile development capabilities to complement my existing skill set and deliver comprehensive solutions across web and mobile platforms. This comprehensive expertise enables me to deliver end-to-end solutions that are not only visually appealing but also scalable, efficient, and resilient.
+<p>Full-stack developer with seven years of experience, I excel in both front-end and back-end development. I specialize in Laravel for web solutions and Flutter for mobile development. My extensive experience and proficiency in both technologies enable me to deliver comprehensive solutions across web and mobile platforms seamlessly. I am committed to continuously improving my skills in both Laravel and Flutter to ensure that I provide the most efficient, scalable, and visually appealing solutions for my clients.
 </p>
 
 <p>Most of my work available on <a href="https://akramdev.com/" target="_blank">akramdev.com</a>. And you could have a copy of my <a href="https://akramdev.com/cv" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3">resume</a> as well.
