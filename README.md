@@ -14,11 +14,11 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akramghaleb2018@gmail.com)](mailto:akramghaleb2018@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=967776284933)](https://api.whatsapp.com/send?phone=967776284933)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akramghaleb)](https://www.linkedin.com/in/akramghaleb)
-![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akramghalebdev)](https://www.linkedin.com/in/akramghalebdev)
+![](https://visitor-badge.laobi.icu/badge?page_id=akramghalebdev.akramghalebdev)
 
 
-[![committers.top badge](https://user-badge.committers.top/yemen/akramghaleb.svg)](https://user-badge.committers.top/yemen/akramghaleb)
+[![committers.top badge](https://user-badge.committers.top/yemen/akramghalebdev.svg)](https://user-badge.committers.top/yemen/akramghalebdev)
 </div>
 
 **languages and tools:**  
@@ -40,5 +40,5 @@ If you enjoy my work, consider buying me a coffee to keep the creativity flowing
   
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akramghaleb&show_icons=true&theme=gotham" alt="akramghaleb" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akramghalebdev&show_icons=true&theme=gotham" alt="akramghalebdev" />
 
