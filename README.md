@@ -3,7 +3,7 @@
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
-<p>Full-stack developer with eight years of experience, With extensive Laravel & Vue expertise, I deliver seamless web solutions, continuously improving to offer efficient, scalable, and visually appealing results for clients.
+<p>Full-stack developer with eight years of experience. With extensive Laravel & Vue expertise, I deliver seamless web solutions, continuously improving to offer efficient, scalable, and visually appealing results for clients.
 
 </p>
 
