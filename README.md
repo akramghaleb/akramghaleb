@@ -7,11 +7,11 @@
 
 </p>
 
-<p>Most of my work available on <a href="https://akramdev.com/" target="_blank">akramdev.com</a>. And you could have a copy of my <a href="https://akramdev.com/assets/pdf/akramghaleb_cv_en.pdf" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3">resume</a> as well.
+<p>Most of my work available on <a href="https://akramdev.com/" target="_blank">akramdev.com</a>. And you could have a copy of my <a href="https://akramdev.com/assets/pdf/Akram%20Ghaleb.pdf" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3">resume</a> as well.
 </p>
 <p>For enquiries, contact me at <a href="mailto:akramghaleb2018@gmail.com">akramghaleb2018@gmail.com</a></p>
 
-<a href="https://akramdev.com/assets/pdf/akramghaleb_cv_en.pdf" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
+<a href="https://akramdev.com/assets/pdf/Akram%20Ghaleb.pdf" target="_blank" download="akram_cv.pdf" data-aos="zoom-in" data-aos-anchor="data-aos-anchor" class="btn btn-default mr-3"><img src="https://img.shields.io/badge/Download-CV-blue"></a>
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:akramghaleb2018@gmail.com)](mailto:akramghaleb2018@gmail.com)
 [![WhatsApp Badge](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=WhatsApp&logoColor=white&link=https://api.whatsapp.com/send?phone=967776284933)](https://api.whatsapp.com/send?phone=967776284933)
