@@ -3,7 +3,7 @@
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
-<p>Full-stack developer with eight years of experience. With extensive Laravel & Vue expertise, I deliver seamless web solutions, continuously improving to offer efficient, scalable, and visually appealing results for clients.
+<p>Senior Software Engineer with 8 years of experience in designing and implementing scalable and efficient software solutions. Skilled in both front-end and back-end development, I lead projects and mentor teams, focusing on software architecture, performance optimization, and best practices to deliver high-quality code.
 
 </p>
 
