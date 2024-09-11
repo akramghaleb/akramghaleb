@@ -3,7 +3,7 @@
 <div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
-<p>Senior Software Engineer with 8 years of experience in designing and implementing scalable and efficient software solutions. Skilled in both front-end and back-end development, I lead projects and mentor teams, focusing on software architecture, performance optimization, and best practices to deliver high-quality code.
+<p>Over 7 years of experience in developing scalable ERP and software solutions. Proficient in front-end and back-end development, with a strong focus on leading ERP projects, optimizing performance, and mentoring teams. Expertise in software architecture and best practices to deliver high-quality, maintainable code.
 
 </p>
 
