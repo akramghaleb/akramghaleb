@@ -1,5 +1,4 @@
 
-<div style="padding-left:30px; padding-right:30px;">
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
 <p>Full-Stack Developer with over 7 years of experience specializing in building scalable, high-performance web applications. I am proficient in modern technologies such as <b>Laravel, Vue.js, Nuxt.js, PHP, and JavaScript</b>, with a strong passion for delivering clean, efficient, and maintainable code. My focus is on developing user-friendly, responsive websites and web platforms that drive business success.
@@ -22,7 +21,6 @@ In addition to my web development expertise, I have extensive experience leading
 ![](https://visitor-badge.laobi.icu/badge?page_id=akramghaleb.akramghaleb)
 
 
-[![committers.top badge](https://user-badge.committers.top/yemen/akramghaleb.svg)](https://user-badge.committers.top/yemen/akramghaleb)
 </div>
 
 **languages and tools:**  
@@ -37,12 +35,4 @@ In addition to my web development expertise, I have extensive experience leading
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-If you enjoy my work, consider buying me a coffee to keep the creativity flowing!
-
-<a href="https://www.buymeacoffee.com/akramghaleb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-  
-📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=akramghaleb&show_icons=true&theme=gotham" alt="akramghaleb" />
 
