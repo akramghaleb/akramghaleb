@@ -2,7 +2,7 @@
 <h2 >Hello,</h2>
 <h4 >My name is Akram Ghaleb.</h4>
 
-<p>Full-Stack Developer with over 7 years of experience specializing in building scalable, high-performance web applications. I am proficient in modern technologies such as <b>React, Vue, Nuxt, Laravel, and PHP</b>, with a strong passion for delivering clean, efficient, maintainable code and high-performance SPAs using <b>React, Hooks, Context API</b>, and integrating RESTful/GraphQL APIs. My focus is on developing user-friendly, responsive websites and web platforms that drive business success.
+<p>Full-Stack Developer with over 7 years of experience specializing in building scalable, high-performance web applications. I am proficient in modern technologies such as <b> Vue, Nuxt,React, Laravel, and PHP</b>, with a strong passion for delivering clean, efficient, maintainable code and high-performance SPAs using React,<b> Hooks, Context API</b>, and integrating RESTful/GraphQL APIs. My focus is on developing user-friendly, responsive websites and web platforms that drive business success.
 
 As a versatile full-stack developer, I handle both front-end and back-end challenges, crafting solutions that not only meet technical demands but also align with broader business goals. I thrive in environments that foster collaboration, innovation, and continuous optimization, ensuring that the solutions I build are both robust and scalable.
 
